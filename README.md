@@ -1,4 +1,4 @@
 # BOARD-GAME
 
-Group Project in which paticpate 2 studensts.
-We devlop 8 * 8 bord game.
+Group Project in which participate 2 students. 
+Description: We develop  8 * 8 connect 4  board game for two users.
